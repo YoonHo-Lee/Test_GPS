@@ -24,7 +24,7 @@ import android.widget.Toast;
 import java.util.Set;
 
 /**
- * Created by Yoonho on 2017. 6. 10....
+ * Created by Yoonho on 2017. 6. 10..
  */
 
 public class GPSTracker extends Service implements LocationListener {
